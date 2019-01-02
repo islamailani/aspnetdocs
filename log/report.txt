@@ -1,0 +1,1 @@
+{"source":"C:\\Users\\emre\\Downloads\\Docs-master\\.optemp\\packages\\opbuild.scripts.1.67.3\\tools\\build.entrypoint.ps1","log_item_type":"System","line":165,"message_severity":"Error","message":"Initialize dependencies failed","date_time":"2019-01-01 14:35:10.745714Z","file":""}
